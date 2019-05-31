@@ -1,0 +1,14 @@
+
+
+-------------
+  Separator
+-------------
+
+2019-05-31 20:47:14: [Main]: Automatically selecting world at [D:\blockcolor\bin\..\worlds\demo]
+
+
+-------------
+  Separator
+-------------
+
+2019-05-31 20:48:14: [Main]: Automatically selecting world at [D:\blockcolor\bin\..\worlds\demo]

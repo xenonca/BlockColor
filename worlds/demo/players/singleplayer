@@ -1,0 +1,72 @@
+extended_attributes = """
+{"character_creator:face":"eyesblack.png","character_creator:gender":"Male","character_creator:height":"4","character_creator:pants":"pantsblue.png","character_creator:shoes":"hairblack.png","character_creator:skin":"skinwhite.png","character_creator:tshirt":"shirtwhite.png","character_creator:width":"4"}
+
+"""
+breath = 11
+name = singleplayer
+position = (566.83,165,413.64)
+version = 1
+hp = 20
+pitch = 40.19
+yaw = 272.39
+PlayerArgsEnd
+List main 32
+Width 0
+Item flowers:white
+Item flowers:black
+Item flowers:red
+Item flowers:orange
+Item flowers:yellow
+Item flowers:pink
+Item flowers:green
+Item flowers:blue
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

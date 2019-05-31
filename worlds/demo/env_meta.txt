@@ -1,0 +1,7 @@
+day_count = 1296131844
+lbm_introduction_times = :doors:replace_doors_door_black~0;:doors:replace_doors_door_blue~0;:doors:replace_doors_door_green~0;:doors:replace_doors_door_orange~0;:doors:replace_doors_door_pink~0;:doors:replace_doors_door_red~0;:doors:replace_doors_door_white~0;:doors:replace_doors_door_yellow~0;
+last_clear_objects_time = 0
+game_time = 95
+lbm_introduction_times_version = 1
+time_of_day = 9000
+EnvArgsEnd
