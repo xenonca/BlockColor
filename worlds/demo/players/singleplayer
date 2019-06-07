@@ -4,22 +4,22 @@ extended_attributes = """
 """
 breath = 11
 name = singleplayer
-position = (566.83,165,413.64)
+position = (535.84,215,606.39)
 version = 1
 hp = 20
-pitch = 40.19
-yaw = 272.39
+pitch = -1.8
+yaw = 118.07
 PlayerArgsEnd
 List main 32
 Width 0
-Item flowers:white
-Item flowers:black
-Item flowers:red
-Item flowers:orange
-Item flowers:yellow
-Item flowers:pink
-Item flowers:green
-Item flowers:blue
+Item factory_bridges:trap1white
+Item factory_bridges:trap1black
+Item factory_bridges:trap1red
+Item factory_bridges:trap1orange
+Item factory_bridges:trap1yellow
+Item factory_bridges:trap1pink
+Item factory_bridges:trap1green
+Item factory_bridges:trap1blue
 Empty
 Empty
 Empty

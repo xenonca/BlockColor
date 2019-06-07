@@ -91,11 +91,11 @@ mgv7_np_height_select = {
 	persistence = 0.7
 }
 mg_flags = caves, dungeons, light, decorations
-chunksize = 5
+chunksize = 3
 mg_name = v7
 mapgen_limit = 31000
 water_level = 1
-seed = 5887050579120520430
+seed = 6778978388693002793
 mgv7_np_float_base_height = {
 	flags = defaults
 	lacunarity = 2

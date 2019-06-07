@@ -1,0 +1,26 @@
+return {
+	[1] = {
+		["record"] = {
+
+		},
+		["banned"] = false,
+		["last_seen"] = 1537177912,
+		["names"] = {
+			["127.0.0.1"] = true,
+			["mrchiantos"] = true,
+			["singleplayer"] = true,
+		},
+	},
+	[2] = {
+		["record"] = {
+
+		},
+		["banned"] = false,
+		["names"] = {
+			["192.168.0.2"] = true,
+			["QueenofChiantas"] = true,
+		},
+		["last_seen"] = 1537101750,
+	},
+	["timestamp"] = 1537178638,
+}
